@@ -26,7 +26,7 @@ function login(){
         warnContainer.className = "warningmessage-open";
         return;
     }
-    if (eval === 'kalyan' && pval === '123'){
+    if (eval === 'X' && pval === '123'){
         warnMessage.textContent = "login success.";
         warnMessage.className = "msg-success";
         warnContainer.className = "warningmessage-open";
