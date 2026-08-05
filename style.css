@@ -1,13 +1,13 @@
 * {padding:0; margin:0; box-sizing: border-box;}
 
-.main {width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: space-around; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.main {width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: space-around; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: rgba(235, 235, 235, 0.496);}
 
-.formcontainer{ padding: 1rem; display: flex; align-items: center; justify-content: space-between; flex-direction: column; width: 32rem; border-radius: 2rem; box-shadow: 10px -10px 12px rgba(0,0,0,0.1);}
+.formcontainer{ padding: 1rem; display: flex; align-items: center; justify-content: space-between; flex-direction: column; width: 32rem; border-radius: 2rem; box-shadow: 10px -10px 12px rgba(0,0,0,0.1); background-color: #fff;}
 
 .formheader{ padding: 1rem; display: flex; align-items: center; justify-content: center; margin-bottom: 0.5rem; width: 100%; flex-direction: column;}
 .forminputs{ padding: 1rem; display: flex; align-items: center; justify-content: center; margin-bottom: 0.5rem; flex-direction: column; width: 100%;}
 .forminputs label{ align-self: start;}
-.forminputs input{ align-self: start; width: 100%; padding: 0.6rem; outline: none; font-family: 'Courier New', Courier, monospace; border: none; border-bottom: 1px solid #ffbf00;}
+.forminputs input{ align-self: start; width: 100%; padding: 0.6rem; outline: none; font-family: 'Courier New', Courier, monospace; border: none; border-bottom: 1px solid #ffbf00; background: transparent;}
 .formbuttons{ padding: 1rem; display: flex; align-items: center; justify-content: space-evenly; margin-bottom: 0.5rem; width: 70%; }
 .formbuttons .reset{padding: 1rem 2.5rem; border: none; border-radius: 5px;}
 .formbuttons .login{padding: 1rem 2.5rem; border: none; border-radius: 5px; background-color: #ffbf00; color:#ffff; }
