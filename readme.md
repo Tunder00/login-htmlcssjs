@@ -6,4 +6,4 @@ which can be reused for any type of login page with warning examples also
 
 author
 Kalyan B N
-git: tunder00 (https://githubb.com/tunder00)
+git: tunder00 (https://github.com/tunder00)
